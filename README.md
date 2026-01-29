@@ -20,7 +20,7 @@ A modern, clean, and well-tested PayPal payment gateway integration for Laravel 
 Install via Composer:
 
 ```bash
-composer require zaenalrfn/laravel-paypal
+composer require zaenalrfn/laravel-paypal-checkout
 ```
 
 ## Configuration
