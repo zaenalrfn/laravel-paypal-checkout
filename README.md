@@ -230,12 +230,6 @@ tail -f storage/logs/paypal-$(date +%Y-%m-%d).log
 2. **Environment Mismatch** - Sandbox webhook ID only works with sandbox credentials
 3. **Development Testing** - Set `PAYPAL_VERIFY_WEBHOOK=false` for local testing
 
-Run diagnostic tool:
-
-```bash
-php diagnose-webhook.php
-```
-
 ### Authentication Failed
 
 **Problem:** "PayPal authentication failed" error
