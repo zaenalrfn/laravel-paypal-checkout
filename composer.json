@@ -1,13 +1,13 @@
 {
-  "name": "zaenalrfn/laravel-paypal",
-  "description": "PayPal payment gateway package for Laravel 12",
+  "name": "zaenalrfn/laravel-paypal-checkout",
+  "description": "A secure and production-ready PayPal Checkout integration for Laravel with DTO-based payloads and verified webhooks",
   "type": "library",
   "license": "MIT",
   "keywords": ["laravel", "paypal", "payment", "gateway", "checkout"],
   "authors": [
     {
       "name": "Zaenal Arifin",
-      "email": "zaenalrfn@example.com"
+      "email": "zaofficial24@gmail.com"
     }
   ],
 
