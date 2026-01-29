@@ -3,7 +3,7 @@
   "description": "A secure and production-ready PayPal Checkout integration for Laravel with DTO-based payloads and verified webhooks",
   "type": "library",
   "license": "MIT",
-  "keywords": ["laravel", "paypal", "payment", "gateway", "checkout"],
+  "keywords": ["laravel", "paypal", "payment", "gateway", "checkout", "laravel-paypal-checkout", "laravel-paypal"],
   "authors": [
     {
       "name": "Zaenal Arifin",
