@@ -1,8 +1,8 @@
 # Laravel PayPal Package
 
-[![Latest Version](https://img.shields.io/packagist/v/zaenalrfn/laravel-paypal.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal)
-[![Total Downloads](https://img.shields.io/packagist/dt/zaenalrfn/laravel-paypal.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal)
-[![License](https://img.shields.io/packagist/l/zaenalrfn/laravel-paypal.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal)
+[![Latest Version](https://img.shields.io/packagist/v/zaenalrfn/laravel-paypal-checkout.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal-checkout)
+[![Total Downloads](https://img.shields.io/packagist/dt/zaenalrfn/laravel-paypal-checkout.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal-checkout)
+[![License](https://img.shields.io/packagist/l/zaenalrfn/laravel-paypal-checkout.svg)](https://packagist.org/packages/zaenalrfn/laravel-paypal-checkout)
 
 A modern, clean, and well-tested PayPal payment gateway integration for Laravel 11 & 12.
 
