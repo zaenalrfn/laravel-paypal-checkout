@@ -1,0 +1,61 @@
+{
+  "name": "zaenalrfn/laravel-paypal",
+  "description": "PayPal payment gateway package for Laravel 12",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["laravel", "paypal", "payment", "gateway", "checkout"],
+  "authors": [
+    {
+      "name": "Zaenal Arifin",
+      "email": "zaenalrfn@example.com"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "Zaenalrfn\\LaravelPayPal\\": "src/"
+    }
+  },
+
+  "autoload-dev": {
+    "psr-4": {
+      "Zaenalrfn\\LaravelPayPal\\Tests\\": "tests/"
+    }
+  },
+
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Zaenalrfn\\LaravelPayPal\\LaravelPayPalServiceProvider"
+      ]
+    }
+  },
+
+  "require": {
+    "php": "^8.2",
+    "illuminate/support": "^11.0|^12.0",
+    "illuminate/http": "^11.0|^12.0",
+    "guzzlehttp/guzzle": "^7.8"
+  },
+
+  "require-dev": {
+    "orchestra/testbench": "^9.0",
+    "pestphp/pest": "^3.0",
+    "pestphp/pest-plugin-laravel": "^3.0",
+    "mockery/mockery": "^1.6"
+  },
+
+  "scripts": {
+    "test": "vendor/bin/pest"
+  },
+
+  "config": {
+    "sort-packages": true,
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  },
+
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
